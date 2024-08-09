@@ -1,2 +1,2 @@
-# lagoa
-My personal repository
+# About me
+### My personal repository
